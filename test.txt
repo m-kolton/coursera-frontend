@@ -1,2 +1,2 @@
-Stary commit
+Stary commit --edytowany
 Edytowany
