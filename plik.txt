@@ -1,1 +1,2 @@
 1 Wpis
+2 Edycja
